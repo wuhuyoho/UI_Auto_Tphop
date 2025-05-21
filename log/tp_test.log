@@ -1,0 +1,572 @@
+2023-02-10 09:09:20,116 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 09:09:20,137 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="ec6484fb-4fb0-4870-801f-4bfa59b9dd73")>'s text success!
+2023-02-10 09:09:20,271 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="ec6484fb-4fb0-4870-801f-4bfa59b9dd73")>'s admin success!
+2023-02-10 09:09:20,283 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 09:09:20,317 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="746467e4-b478-40bb-9360-f92a3991a990")>'s text success!
+2023-02-10 09:09:20,367 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="746467e4-b478-40bb-9360-f92a3991a990")>'s 123456 success!
+2023-02-10 09:09:20,379 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 09:09:20,409 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="6a661e49-bd3e-4968-9762-355c8112ec5f")>'s text success!
+2023-02-10 09:09:20,443 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="6a661e49-bd3e-4968-9762-355c8112ec5f")>'s 8888 success!
+2023-02-10 09:09:20,457 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 09:09:21,628 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 09:09:22,129 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 09:09:22,395 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 09:09:22,407 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="0c1e92a9-f376-4057-9e86-c42f7429669a")> iframe success!
+2023-02-10 09:09:22,415 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 09:09:23,287 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 09:09:23,312 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="08d66064-ee16-4090-9382-8e0022b58569")>'s text success!
+2023-02-10 09:09:23,360 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="08d66064-ee16-4090-9382-8e0022b58569")>'s goods_20230210090922 success!
+2023-02-10 09:09:23,371 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 09:09:23,424 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 09:09:23,625 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 09:09:23,745 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 09:09:23,764 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="d68e7613-ffa7-49a5-90b3-15bda45c95f8")>'s text success!
+2023-02-10 09:09:23,816 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="d68e7613-ffa7-49a5-90b3-15bda45c95f8")>'s 210 success!
+2023-02-10 09:09:23,823 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 09:09:23,842 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="042945c7-c7a8-40fd-abcb-2ff9d0e00bc0")>'s text success!
+2023-02-10 09:09:23,904 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="ff22eea0293aa032d01f772e01821b07", element="042945c7-c7a8-40fd-abcb-2ff9d0e00bc0")>'s 220 success!
+2023-02-10 09:09:23,913 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 09:09:23,989 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 09:12:16,623 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 09:12:16,647 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5519008f86c7449b37498aa60d7e41b7", element="4de30918-b67c-441b-9c20-0bec514ea800")>'s text success!
+2023-02-10 09:12:16,765 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5519008f86c7449b37498aa60d7e41b7", element="4de30918-b67c-441b-9c20-0bec514ea800")>'s admin success!
+2023-02-10 09:12:16,774 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 09:12:16,806 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5519008f86c7449b37498aa60d7e41b7", element="ee258ae4-07cc-4655-a3ae-095cb8d8c308")>'s text success!
+2023-02-10 09:12:16,844 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5519008f86c7449b37498aa60d7e41b7", element="ee258ae4-07cc-4655-a3ae-095cb8d8c308")>'s 123456 success!
+2023-02-10 09:12:16,867 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 09:12:16,897 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5519008f86c7449b37498aa60d7e41b7", element="e238633a-a1a9-4783-ace3-95063076e05d")>'s text success!
+2023-02-10 09:12:17,140 ERROR [base_page.py(input_text:113)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5519008f86c7449b37498aa60d7e41b7", element="e238633a-a1a9-4783-ace3-95063076e05d")>'s 8888 failed!
+2023-02-10 09:12:17,155 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 09:12:19,462 ERROR [base_page.py(find_el:90)] - excute find_el ('xpath', "//*[text()='商城']") failed!
+2023-02-10 09:12:24,941 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 09:12:24,961 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="86d2a72f-2859-45a4-9fbb-8a64b636858a")>'s text success!
+2023-02-10 09:12:25,088 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="86d2a72f-2859-45a4-9fbb-8a64b636858a")>'s admin success!
+2023-02-10 09:12:25,098 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 09:12:25,131 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="abac44e3-31d4-467f-8c11-76f417279160")>'s text success!
+2023-02-10 09:12:25,175 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="abac44e3-31d4-467f-8c11-76f417279160")>'s 123456 success!
+2023-02-10 09:12:25,190 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 09:12:25,213 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="7049ba95-8513-458a-8270-ff184190374e")>'s text success!
+2023-02-10 09:12:25,251 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="7049ba95-8513-458a-8270-ff184190374e")>'s 8888 success!
+2023-02-10 09:12:25,261 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 09:12:26,361 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 09:12:29,531 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 09:12:29,803 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 09:12:29,819 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="29b837ef-cf69-4177-ad81-978e5504d272")> iframe success!
+2023-02-10 09:12:29,827 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 09:12:30,523 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 09:12:30,548 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="40a00ddf-7fc6-4d2b-bc9a-22559850bad9")>'s text success!
+2023-02-10 09:12:30,616 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="40a00ddf-7fc6-4d2b-bc9a-22559850bad9")>'s goods_20230210091229 success!
+2023-02-10 09:12:30,626 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 09:12:30,683 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 09:12:30,867 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 09:12:31,045 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 09:12:31,068 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="90bb0b9f-2a41-4ea0-b381-a6cb5f0a2ace")>'s text success!
+2023-02-10 09:12:31,109 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="90bb0b9f-2a41-4ea0-b381-a6cb5f0a2ace")>'s 210 success!
+2023-02-10 09:12:31,117 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 09:12:31,137 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="db080239-b27e-44ef-8c42-7196647a7fd4")>'s text success!
+2023-02-10 09:12:31,193 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="5e41ff308be7f9eb7411a2dd2c72dcc3", element="db080239-b27e-44ef-8c42-7196647a7fd4")>'s 220 success!
+2023-02-10 09:12:31,204 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 09:12:31,264 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 09:36:35,113 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 09:36:35,132 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="f21fb282-8d4b-44b4-adec-b1fd1993ac33")>'s text success!
+2023-02-10 09:36:35,247 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="f21fb282-8d4b-44b4-adec-b1fd1993ac33")>'s admin success!
+2023-02-10 09:36:35,255 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 09:36:35,274 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="c7f3ec58-01cc-4233-9d4b-ec2e66b45575")>'s text success!
+2023-02-10 09:36:35,314 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="c7f3ec58-01cc-4233-9d4b-ec2e66b45575")>'s 123456 success!
+2023-02-10 09:36:35,320 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 09:36:35,352 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="24c0192e-8ca0-4f1d-89f9-bc0d77617ea4")>'s text success!
+2023-02-10 09:36:35,401 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="24c0192e-8ca0-4f1d-89f9-bc0d77617ea4")>'s 8888 success!
+2023-02-10 09:36:35,412 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 09:36:36,483 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 09:36:36,937 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 09:36:37,229 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 09:36:37,241 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="f043bced-747c-4c09-bc14-2c394757fe3d")> iframe success!
+2023-02-10 09:36:37,246 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 09:36:37,944 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 09:36:37,965 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="32c118ce-4877-4511-b29b-4b611927e245")>'s text success!
+2023-02-10 09:36:38,020 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="32c118ce-4877-4511-b29b-4b611927e245")>'s goods_20230210093637 success!
+2023-02-10 09:36:38,030 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 09:36:38,096 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 09:36:38,275 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 09:36:38,473 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 09:36:38,494 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="fa059f80-0dbd-41cf-81b8-1533d4b69f66")>'s text success!
+2023-02-10 09:36:38,543 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="fa059f80-0dbd-41cf-81b8-1533d4b69f66")>'s 210 success!
+2023-02-10 09:36:38,554 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 09:36:38,579 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="1415e788-1057-4bef-aa01-c200db22db70")>'s text success!
+2023-02-10 09:36:38,631 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4fd3d4d547c1476e9615fd613977cc20", element="1415e788-1057-4bef-aa01-c200db22db70")>'s 220 success!
+2023-02-10 09:36:38,641 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 09:36:38,707 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 09:36:46,760 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 09:36:46,787 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="af25072f66a29e2d905696eec7d47fbd", element="4da5b0b5-701e-47c3-86ab-ecc5812aad18")>'s text success!
+2023-02-10 09:36:46,868 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="af25072f66a29e2d905696eec7d47fbd", element="4da5b0b5-701e-47c3-86ab-ecc5812aad18")>'s admin success!
+2023-02-10 09:36:46,887 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 09:36:46,911 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="af25072f66a29e2d905696eec7d47fbd", element="67d33436-27ee-4679-aa1c-b8af22a4fbab")>'s text success!
+2023-02-10 09:36:46,953 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="af25072f66a29e2d905696eec7d47fbd", element="67d33436-27ee-4679-aa1c-b8af22a4fbab")>'s 123456 success!
+2023-02-10 09:36:46,962 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 09:36:46,987 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="af25072f66a29e2d905696eec7d47fbd", element="0e65d46c-cbc0-414d-ae43-160ac599c20a")>'s text success!
+2023-02-10 09:36:47,027 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="af25072f66a29e2d905696eec7d47fbd", element="0e65d46c-cbc0-414d-ae43-160ac599c20a")>'s 8888 success!
+2023-02-10 09:36:47,035 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 10:10:39,782 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 10:10:39,805 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="4beed3d6-becd-4f54-b032-26a8d205f2f8")>'s text success!
+2023-02-10 10:10:39,943 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="4beed3d6-becd-4f54-b032-26a8d205f2f8")>'s admin success!
+2023-02-10 10:10:39,951 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 10:10:39,974 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="9e8f9a85-84e3-4a5d-9050-ae9c41fa32a3")>'s text success!
+2023-02-10 10:10:40,022 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="9e8f9a85-84e3-4a5d-9050-ae9c41fa32a3")>'s 123456 success!
+2023-02-10 10:10:40,029 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 10:10:40,062 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="5ea12980-62e3-4c5b-9ff5-d1e9a746cd54")>'s text success!
+2023-02-10 10:10:40,106 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="5ea12980-62e3-4c5b-9ff5-d1e9a746cd54")>'s 8888 success!
+2023-02-10 10:10:40,120 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 10:10:41,836 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 10:10:42,333 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 10:10:42,588 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 10:10:42,600 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="f5c052cb-7276-4d18-8b05-8dcd54d06bf8")> iframe success!
+2023-02-10 10:10:42,610 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 10:10:43,480 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 10:10:43,500 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="bfdd199a-8553-4083-86e2-66a96ed30c05")>'s text success!
+2023-02-10 10:10:43,549 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="bfdd199a-8553-4083-86e2-66a96ed30c05")>'s goods_20230210101042 success!
+2023-02-10 10:10:43,561 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 10:10:43,625 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 10:10:43,734 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 10:10:43,856 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 10:10:43,875 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="222e0c62-7c4e-401f-880f-acc56313d166")>'s text success!
+2023-02-10 10:10:43,926 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="222e0c62-7c4e-401f-880f-acc56313d166")>'s 210 success!
+2023-02-10 10:10:43,940 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 10:10:43,961 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="3ef72d8c-1aed-4840-93b4-c8c17498d28e")>'s text success!
+2023-02-10 10:10:44,015 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0c69a8a80a6bfc6a661769db943fce54", element="3ef72d8c-1aed-4840-93b4-c8c17498d28e")>'s 220 success!
+2023-02-10 10:10:44,026 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 10:10:44,104 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 10:12:04,647 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 10:12:04,676 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="393ac18d0f4dc5979664573bbda0024a", element="4ec859a6-1aa0-4d01-931d-7c0cc9aafa06")>'s text success!
+2023-02-10 10:12:04,816 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="393ac18d0f4dc5979664573bbda0024a", element="4ec859a6-1aa0-4d01-931d-7c0cc9aafa06")>'s admin success!
+2023-02-10 10:12:04,824 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 10:12:04,848 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="393ac18d0f4dc5979664573bbda0024a", element="c1b7bbef-dff8-4411-96bc-3f6358a8028d")>'s text success!
+2023-02-10 10:12:04,894 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="393ac18d0f4dc5979664573bbda0024a", element="c1b7bbef-dff8-4411-96bc-3f6358a8028d")>'s 123456 success!
+2023-02-10 10:12:04,902 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 10:12:04,923 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="393ac18d0f4dc5979664573bbda0024a", element="f0c5791c-edc8-4cf5-8061-26a769b7d987")>'s text success!
+2023-02-10 10:12:04,955 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="393ac18d0f4dc5979664573bbda0024a", element="f0c5791c-edc8-4cf5-8061-26a769b7d987")>'s 8888 success!
+2023-02-10 10:12:04,961 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 10:16:29,192 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 10:16:29,210 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="681aba50-d9c0-4f3a-9cd6-a1173c4a7978")>'s text success!
+2023-02-10 10:16:29,232 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="681aba50-d9c0-4f3a-9cd6-a1173c4a7978")>'s admin success!
+2023-02-10 10:16:29,238 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 10:16:29,258 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="e440698c-34f9-4616-9aa2-df6b1af0b32c")>'s text success!
+2023-02-10 10:16:29,283 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="e440698c-34f9-4616-9aa2-df6b1af0b32c")>'s 123456 success!
+2023-02-10 10:16:29,291 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 10:16:29,311 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="5438f70b-b01e-4b46-a20d-aa00c1b86a4c")>'s text success!
+2023-02-10 10:16:29,337 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="5438f70b-b01e-4b46-a20d-aa00c1b86a4c")>'s 8888 success!
+2023-02-10 10:16:29,344 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 10:16:30,966 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 10:16:31,385 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 10:16:31,647 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 10:16:31,657 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="00a1cfd7-cc1f-44fd-b0a3-a23c26fea7b0")> iframe success!
+2023-02-10 10:16:31,664 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 10:16:32,442 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 10:16:32,459 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="7f0b41f3-5cc3-471e-82c7-b42a9727dd2a")>'s text success!
+2023-02-10 10:16:32,493 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="7f0b41f3-5cc3-471e-82c7-b42a9727dd2a")>'s goods_20230210101631 success!
+2023-02-10 10:16:32,499 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 10:16:32,549 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 10:16:32,707 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 10:16:32,880 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 10:16:32,898 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="f6b5e020-76cc-4ec6-92a0-b6807d5b86b3")>'s text success!
+2023-02-10 10:16:32,931 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="f6b5e020-76cc-4ec6-92a0-b6807d5b86b3")>'s 210 success!
+2023-02-10 10:16:32,938 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 10:16:32,957 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="2f3c6d18-7ad4-4993-bf22-b15cc488311a")>'s text success!
+2023-02-10 10:16:33,006 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4bf36685573462d9fef891f404275382", element="2f3c6d18-7ad4-4993-bf22-b15cc488311a")>'s 220 success!
+2023-02-10 10:16:33,013 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 10:16:33,059 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 10:19:04,995 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 10:19:05,014 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="ef16aea7-eba2-46fb-b52c-837c35e5b051")>'s text success!
+2023-02-10 10:19:05,037 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="ef16aea7-eba2-46fb-b52c-837c35e5b051")>'s admin success!
+2023-02-10 10:19:05,043 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 10:19:05,062 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="b2cc17e5-ec96-44dc-b8eb-6db88eec8b82")>'s text success!
+2023-02-10 10:19:05,084 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="b2cc17e5-ec96-44dc-b8eb-6db88eec8b82")>'s 123456 success!
+2023-02-10 10:19:05,089 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 10:19:05,108 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="ed4659e4-2bc3-47d1-9131-162b129221b6")>'s text success!
+2023-02-10 10:19:05,133 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="ed4659e4-2bc3-47d1-9131-162b129221b6")>'s 8888 success!
+2023-02-10 10:19:05,140 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 10:19:06,674 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 10:19:07,072 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 10:19:07,314 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 10:19:07,323 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="3452baa2-e808-490f-ad98-e8602bee1355")> iframe success!
+2023-02-10 10:19:07,329 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 10:19:08,009 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 10:19:08,027 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="bd11506e-a90a-4dc0-84f1-49dd006262df")>'s text success!
+2023-02-10 10:19:08,060 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="bd11506e-a90a-4dc0-84f1-49dd006262df")>'s goods_20230210101907 success!
+2023-02-10 10:19:08,067 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 10:19:08,111 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 10:19:08,271 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 10:19:08,438 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 10:19:08,455 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="ccbf77e0-47f0-49b4-a4d8-590544ebe20c")>'s text success!
+2023-02-10 10:19:08,492 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="ccbf77e0-47f0-49b4-a4d8-590544ebe20c")>'s 210 success!
+2023-02-10 10:19:08,499 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 10:19:08,517 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="f66d6dec-3311-44ff-9660-d3c7faeaadb2")>'s text success!
+2023-02-10 10:19:08,546 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1eca6ba615d9b1cd361c80ab4e4e8010", element="f66d6dec-3311-44ff-9660-d3c7faeaadb2")>'s 220 success!
+2023-02-10 10:19:08,553 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 10:19:08,605 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 10:48:56,027 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 10:48:56,049 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="98f6fdfe-411d-4693-8a01-8ef00d9bfae2")>'s text success!
+2023-02-10 10:48:56,129 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="98f6fdfe-411d-4693-8a01-8ef00d9bfae2")>'s admin success!
+2023-02-10 10:48:56,136 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 10:48:56,155 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="dbe4b33b-2857-4069-bad3-cb70ec1853cd")>'s text success!
+2023-02-10 10:48:56,190 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="dbe4b33b-2857-4069-bad3-cb70ec1853cd")>'s 123456 success!
+2023-02-10 10:48:56,199 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 10:48:56,222 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="e66a9e9f-db36-45cc-92cc-690e3203e382")>'s text success!
+2023-02-10 10:48:56,259 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="e66a9e9f-db36-45cc-92cc-690e3203e382")>'s 8888 success!
+2023-02-10 10:48:56,265 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 10:48:57,905 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 10:48:58,389 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 10:48:58,693 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 10:48:58,704 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="96a934d3-c2a7-49ac-97e7-7ac668470088")> iframe success!
+2023-02-10 10:48:58,718 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 10:48:59,616 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 10:48:59,643 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="088d5dd0-16b4-4afd-aecf-51aa088329e4")>'s text success!
+2023-02-10 10:48:59,700 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="088d5dd0-16b4-4afd-aecf-51aa088329e4")>'s goods_20230210104858 success!
+2023-02-10 10:48:59,716 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 10:48:59,777 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 10:48:59,897 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 10:49:00,090 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 10:49:00,107 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="97a4762d-d640-4cc4-bece-03cc90d93324")>'s text success!
+2023-02-10 10:49:00,150 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="97a4762d-d640-4cc4-bece-03cc90d93324")>'s 210 success!
+2023-02-10 10:49:00,158 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 10:49:00,182 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="378a612e-831b-4563-b37a-40d365312b92")>'s text success!
+2023-02-10 10:49:00,229 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="336bbb13c40cff5ff5b8ba07a3522adf", element="378a612e-831b-4563-b37a-40d365312b92")>'s 220 success!
+2023-02-10 10:49:00,241 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 10:49:00,298 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 11:09:39,648 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 11:09:39,674 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="e51cd96e-07ba-48aa-9bbb-8399e6d26a4c")>'s text success!
+2023-02-10 11:09:39,761 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="e51cd96e-07ba-48aa-9bbb-8399e6d26a4c")>'s admin success!
+2023-02-10 11:09:39,767 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 11:09:39,784 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="8ceee349-da42-475c-9370-9c6a0ec8e259")>'s text success!
+2023-02-10 11:09:39,823 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="8ceee349-da42-475c-9370-9c6a0ec8e259")>'s 123456 success!
+2023-02-10 11:09:39,832 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 11:09:39,854 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="488af630-8241-448a-b034-d115f076acac")>'s text success!
+2023-02-10 11:09:39,888 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="488af630-8241-448a-b034-d115f076acac")>'s 8888 success!
+2023-02-10 11:09:39,894 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 11:09:44,140 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 11:09:44,598 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 11:09:44,869 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 11:09:44,881 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="5fb4edbd-24e0-49ec-b5d9-2c0c33b6b9ec")> iframe success!
+2023-02-10 11:09:44,888 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 11:09:45,690 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 11:09:45,716 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="5dda36a4-602b-4a61-bf99-3c9489e497df")>'s text success!
+2023-02-10 11:09:45,760 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="5dda36a4-602b-4a61-bf99-3c9489e497df")>'s goods_20230210110944 success!
+2023-02-10 11:09:45,773 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 11:09:45,828 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 11:09:46,009 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 11:09:46,124 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 11:09:46,149 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="5f6ec0b2-2708-482d-881d-3ab1c9c5bec5")>'s text success!
+2023-02-10 11:09:46,190 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="5f6ec0b2-2708-482d-881d-3ab1c9c5bec5")>'s 210 success!
+2023-02-10 11:09:46,201 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 11:09:46,227 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="8da1b3a9-36cb-4bf8-b8e7-a51a6085f874")>'s text success!
+2023-02-10 11:09:46,269 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0dec3046fadcab075f52c69a324f731a", element="8da1b3a9-36cb-4bf8-b8e7-a51a6085f874")>'s 220 success!
+2023-02-10 11:09:46,276 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 11:09:46,351 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 11:10:19,984 ERROR [utils.py(el_is_exist_by_text:145)] - 未找到文本为ADSJDLKASJDLKAJSLKDDJALK的元素对象!
+2023-02-10 12:07:51,949 ERROR [base_page.py(find_el:21)] - excute find_el ('id', 'q') failed!
+2023-02-10 12:07:51,949 ERROR [base_page.py(input_text:41)] - excute input None's goods_20230210111656 failed!
+2023-02-10 12:07:51,951 ERROR [base_page.py(find_el:21)] - excute find_el ('class name', 'ecsc-search-button') failed!
+2023-02-10 12:08:14,249 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 12:08:14,279 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="127ecf508cd83ebe61d4a10d7168f9bf", element="1fbd91ec-02dc-405d-9af5-1230b44a0aa8")>'s text success!
+2023-02-10 12:08:14,389 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="127ecf508cd83ebe61d4a10d7168f9bf", element="1fbd91ec-02dc-405d-9af5-1230b44a0aa8")>'s goods_20230210111656 success!
+2023-02-10 12:08:14,401 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 12:09:12,847 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 12:09:12,875 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="c3ed2814ef1a8e6b715074fdf248d8ca", element="d5a6e5c6-1ae9-488e-8212-5685175ca29a")>'s text success!
+2023-02-10 12:09:13,010 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="c3ed2814ef1a8e6b715074fdf248d8ca", element="d5a6e5c6-1ae9-488e-8212-5685175ca29a")>'s goods_20230210111656 success!
+2023-02-10 12:09:13,017 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 15:18:23,860 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 15:18:23,886 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4ffc6ff185b9008996ee0607971f8b85", element="cf282fa7-9687-452d-ae39-7e6f7813967c")>'s text success!
+2023-02-10 15:18:24,065 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4ffc6ff185b9008996ee0607971f8b85", element="cf282fa7-9687-452d-ae39-7e6f7813967c")>'s goods_20230210111656 success!
+2023-02-10 15:18:24,076 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 15:18:24,829 INFO [base_page.py(find_el:19)] - excute find_el ('xpath', "//*[contains(text(),'goods_20230210111656 ')]") success!
+2023-02-10 15:18:25,411 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'join_cart') success!
+2023-02-10 15:18:25,610 INFO [base_page.py(find_el:19)] - excute find_el ('css selector', "[id*='layui-layer-iframe']") success!
+2023-02-10 15:18:25,816 INFO [base_page.py(switch_frame:69)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="4ffc6ff185b9008996ee0607971f8b85", element="e7c55c5c-187f-48a0-8463-af7157408cd1")> iframe success!
+2023-02-10 15:21:32,589 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 15:21:32,636 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="123c3df76bf2068888b156eb2cebfc19", element="d4c650a6-acdc-4c76-9a87-be1fc5b8dc9e")>'s text success!
+2023-02-10 15:21:32,768 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="123c3df76bf2068888b156eb2cebfc19", element="d4c650a6-acdc-4c76-9a87-be1fc5b8dc9e")>'s goods_20230210111656 success!
+2023-02-10 15:21:32,778 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 15:21:33,506 INFO [base_page.py(find_el:19)] - excute find_el ('xpath', "//*[contains(text(),'goods_20230210111656 ')]") success!
+2023-02-10 15:21:34,117 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'join_cart') success!
+2023-02-10 15:21:34,280 INFO [base_page.py(find_el:19)] - excute find_el ('css selector', "[id*='layui-layer-iframe']") success!
+2023-02-10 15:21:34,542 INFO [base_page.py(switch_frame:69)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="123c3df76bf2068888b156eb2cebfc19", element="0fa9bcbd-8d09-4789-88a2-76d9fea89e97")> iframe success!
+2023-02-10 15:47:33,546 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 15:47:33,581 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="21b6ad08-e672-49cd-80cd-0e0f734c7ee6")>'s text success!
+2023-02-10 15:47:33,678 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="21b6ad08-e672-49cd-80cd-0e0f734c7ee6")>'s admin success!
+2023-02-10 15:47:33,686 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 15:47:33,706 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="f0d7249b-453c-44f0-a8ac-083722644c70")>'s text success!
+2023-02-10 15:47:33,756 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="f0d7249b-453c-44f0-a8ac-083722644c70")>'s 123456 success!
+2023-02-10 15:47:33,767 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 15:47:33,789 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="2421ad0f-e3aa-4295-96e9-b90d9953bfce")>'s text success!
+2023-02-10 15:47:33,833 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="2421ad0f-e3aa-4295-96e9-b90d9953bfce")>'s 8888 success!
+2023-02-10 15:47:33,847 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 15:47:35,536 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 15:47:35,973 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 15:47:36,237 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 15:47:36,255 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="1a235d44-5263-4120-af4e-768889b4d7b9")> iframe success!
+2023-02-10 15:47:36,266 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 15:47:37,027 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 15:47:37,052 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="488909f1-6e40-45fc-b42a-fa5ec0e0d3ba")>'s text success!
+2023-02-10 15:47:37,106 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="488909f1-6e40-45fc-b42a-fa5ec0e0d3ba")>'s goods_20230210154736 success!
+2023-02-10 15:47:37,113 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 15:47:37,164 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 15:47:37,346 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 15:47:37,520 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 15:47:37,537 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="08811249-d9a0-4782-92b9-7be51a11caec")>'s text success!
+2023-02-10 15:47:37,588 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="08811249-d9a0-4782-92b9-7be51a11caec")>'s 210 success!
+2023-02-10 15:47:37,600 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 15:47:37,624 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="6e09851f-1ae0-4adb-8738-6c4c4e913cd2")>'s text success!
+2023-02-10 15:47:37,662 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="3083307ae9c1eb6943dc4b60ce1e196a", element="6e09851f-1ae0-4adb-8738-6c4c4e913cd2")>'s 220 success!
+2023-02-10 15:47:37,669 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 15:47:37,742 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 15:47:50,960 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 15:47:50,982 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="fb1aaa18f150c13b9e7b60b279b0ab0a", element="2893fe38-75fd-42ad-a98b-73848cb994a2")>'s text success!
+2023-02-10 15:47:51,091 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="fb1aaa18f150c13b9e7b60b279b0ab0a", element="2893fe38-75fd-42ad-a98b-73848cb994a2")>'s goods_20230210111656 success!
+2023-02-10 15:47:51,099 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 15:47:52,222 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 15:47:52,267 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="fb1aaa18f150c13b9e7b60b279b0ab0a", element="6b9914de-738a-4664-a6bc-344c628338cc")>'s text success!
+2023-02-10 15:47:52,338 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="fb1aaa18f150c13b9e7b60b279b0ab0a", element="6b9914de-738a-4664-a6bc-344c628338cc")>'s goods_20230210111656 success!
+2023-02-10 15:47:52,343 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 15:47:52,845 INFO [base_page.py(find_el:19)] - excute find_el ('xpath', "//*[contains(text(),'goods_20230210111656 ')]") success!
+2023-02-10 15:47:53,444 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'join_cart') success!
+2023-02-10 15:47:53,604 INFO [base_page.py(find_el:19)] - excute find_el ('css selector', "[id*='layui-layer-iframe']") success!
+2023-02-10 15:47:53,873 INFO [base_page.py(switch_frame:69)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="fb1aaa18f150c13b9e7b60b279b0ab0a", element="6fe33486-b870-42d7-ba17-be4117663e76")> iframe success!
+2023-02-10 16:05:50,371 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 16:05:50,393 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="03996727-90c4-4ed7-bcfd-d3d7dabce2dc")>'s text success!
+2023-02-10 16:05:50,523 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="03996727-90c4-4ed7-bcfd-d3d7dabce2dc")>'s admin success!
+2023-02-10 16:05:50,535 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 16:05:50,554 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="16ec25aa-8563-4848-a26a-d3d8f17a587b")>'s text success!
+2023-02-10 16:05:50,589 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="16ec25aa-8563-4848-a26a-d3d8f17a587b")>'s 123456 success!
+2023-02-10 16:05:50,601 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 16:05:50,625 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="ee6d05fc-f512-4a72-9770-0cb7afaf4b80")>'s text success!
+2023-02-10 16:05:50,669 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="ee6d05fc-f512-4a72-9770-0cb7afaf4b80")>'s 8888 success!
+2023-02-10 16:05:50,684 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 16:05:52,498 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 16:05:52,956 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 16:05:53,214 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 16:05:53,227 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="da3559ff-ee08-41fe-a227-755c7b5154aa")> iframe success!
+2023-02-10 16:05:53,235 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 16:05:53,954 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 16:05:53,973 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="dac3b4a8-871b-4fc0-bb90-d316166e8d89")>'s text success!
+2023-02-10 16:05:54,030 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="dac3b4a8-871b-4fc0-bb90-d316166e8d89")>'s goods_20230210160553 success!
+2023-02-10 16:05:54,038 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 16:05:54,103 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 16:05:54,285 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 16:05:54,456 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 16:05:54,477 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="9bfa6ca2-8534-4b2b-ba08-88484e33c670")>'s text success!
+2023-02-10 16:05:54,525 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="9bfa6ca2-8534-4b2b-ba08-88484e33c670")>'s 210 success!
+2023-02-10 16:05:54,532 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 16:05:54,561 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="1cf5f52d-2623-42ad-8ff6-e15a2a74e331")>'s text success!
+2023-02-10 16:05:54,626 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="6042351df72ff9d41b272b3a747691db", element="1cf5f52d-2623-42ad-8ff6-e15a2a74e331")>'s 220 success!
+2023-02-10 16:05:54,634 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 16:05:54,699 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 16:06:06,323 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:06:06,348 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="2ac484272047e057dba0e8f6e1e00459", element="6acc3d36-c688-44e1-bb51-423f96654b0d")>'s text success!
+2023-02-10 16:06:06,479 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="2ac484272047e057dba0e8f6e1e00459", element="6acc3d36-c688-44e1-bb51-423f96654b0d")>'s goods_20230210160553 success!
+2023-02-10 16:06:06,485 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:06:38,213 ERROR [utils.py(el_is_exist_by_text:153)] - 未找到文本为goods_20230210111656的元素对象!
+2023-02-10 16:06:38,958 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:06:38,978 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="2ac484272047e057dba0e8f6e1e00459", element="81467467-adf7-42e4-852e-7e2a211b7f7b")>'s text success!
+2023-02-10 16:06:39,021 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="2ac484272047e057dba0e8f6e1e00459", element="81467467-adf7-42e4-852e-7e2a211b7f7b")>'s goods_20230210160553 success!
+2023-02-10 16:06:39,032 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:06:40,441 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'join_cart') success!
+2023-02-10 16:06:40,625 INFO [base_page.py(find_el:19)] - excute find_el ('css selector', "[id*='layui-layer-iframe']") success!
+2023-02-10 16:06:40,955 INFO [base_page.py(switch_frame:69)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="2ac484272047e057dba0e8f6e1e00459", element="054a124f-04be-41b7-a2ba-2cc6766f6d1f")> iframe success!
+2023-02-10 16:08:45,989 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 16:08:46,006 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="324a485c-ad27-4649-8d80-213c3b43fb9e")>'s text success!
+2023-02-10 16:08:46,082 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="324a485c-ad27-4649-8d80-213c3b43fb9e")>'s admin success!
+2023-02-10 16:08:46,088 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 16:08:46,104 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="aefa4ce4-2257-4b6a-a7c0-142343dd502d")>'s text success!
+2023-02-10 16:08:46,137 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="aefa4ce4-2257-4b6a-a7c0-142343dd502d")>'s 123456 success!
+2023-02-10 16:08:46,143 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 16:08:46,166 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="c4dab1b0-1ee9-4f19-b939-9d41c115ab13")>'s text success!
+2023-02-10 16:08:46,196 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="c4dab1b0-1ee9-4f19-b939-9d41c115ab13")>'s 8888 success!
+2023-02-10 16:08:46,202 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 16:08:47,759 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 16:08:48,207 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 16:08:48,467 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 16:08:48,475 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="936c11bf-1243-41a4-8562-bedcad44852f")> iframe success!
+2023-02-10 16:08:48,482 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 16:08:49,268 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 16:08:49,287 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="4fe54fe2-2670-4f57-b55b-f9b60bc50c76")>'s text success!
+2023-02-10 16:08:49,332 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="4fe54fe2-2670-4f57-b55b-f9b60bc50c76")>'s goods_20230210160848 success!
+2023-02-10 16:08:49,339 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 16:08:49,385 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 16:08:49,556 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 16:08:49,734 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 16:08:49,753 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="78e47e65-e892-4ec7-aed7-39426d85dc91")>'s text success!
+2023-02-10 16:08:49,787 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="78e47e65-e892-4ec7-aed7-39426d85dc91")>'s 210 success!
+2023-02-10 16:08:49,793 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 16:08:49,814 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="64661ec9-7934-47eb-8912-242adcffd337")>'s text success!
+2023-02-10 16:08:49,857 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="c39b0ad85cabe458538e6372160a5533", element="64661ec9-7934-47eb-8912-242adcffd337")>'s 220 success!
+2023-02-10 16:08:49,863 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 16:08:49,919 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 16:09:01,829 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:09:01,851 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="2bcd1762e44cc09a401e8dc1aa8f567e", element="ebb44802-c35a-40ee-afd4-4ab4fb6dd717")>'s text success!
+2023-02-10 16:09:01,952 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="2bcd1762e44cc09a401e8dc1aa8f567e", element="ebb44802-c35a-40ee-afd4-4ab4fb6dd717")>'s goods_20230210160848 success!
+2023-02-10 16:09:01,958 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:09:33,607 ERROR [utils.py(el_is_exist_by_text:153)] - 未找到文本为goods_20230210111656的元素对象!
+2023-02-10 16:09:34,316 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:09:34,344 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="2bcd1762e44cc09a401e8dc1aa8f567e", element="456d3467-c6fc-472c-a5ff-09d174c127c8")>'s text success!
+2023-02-10 16:09:34,402 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="2bcd1762e44cc09a401e8dc1aa8f567e", element="456d3467-c6fc-472c-a5ff-09d174c127c8")>'s goods_20230210160848 success!
+2023-02-10 16:09:34,411 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:09:35,847 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'join_cart') success!
+2023-02-10 16:09:36,031 INFO [base_page.py(find_el:19)] - excute find_el ('css selector', "[id*='layui-layer-iframe']") success!
+2023-02-10 16:09:36,273 INFO [base_page.py(switch_frame:69)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="2bcd1762e44cc09a401e8dc1aa8f567e", element="8e877d40-7bbc-4834-be07-7e0bb0be0605")> iframe success!
+2023-02-10 16:13:52,778 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 16:13:52,796 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="587700fd-d40e-4956-90ec-dab3b85dbf7e")>'s text success!
+2023-02-10 16:13:52,867 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="587700fd-d40e-4956-90ec-dab3b85dbf7e")>'s admin success!
+2023-02-10 16:13:52,873 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 16:13:52,890 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="05bc0bf9-2798-47f7-a300-1a1767a04a22")>'s text success!
+2023-02-10 16:13:52,916 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="05bc0bf9-2798-47f7-a300-1a1767a04a22")>'s 123456 success!
+2023-02-10 16:13:52,923 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 16:13:52,944 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="ffe87811-b867-4f94-9c18-84b35f652612")>'s text success!
+2023-02-10 16:13:52,978 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="ffe87811-b867-4f94-9c18-84b35f652612")>'s 8888 success!
+2023-02-10 16:13:52,984 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 16:13:54,759 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 16:13:55,169 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 16:13:55,448 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 16:13:55,459 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="4bf712e4-e0b9-4d11-b09c-04f494acb1a3")> iframe success!
+2023-02-10 16:13:55,467 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 16:13:56,153 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 16:13:56,171 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="37cd34c7-0aea-4b13-ab83-3d4d0c13cd6e")>'s text success!
+2023-02-10 16:13:56,227 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="37cd34c7-0aea-4b13-ab83-3d4d0c13cd6e")>'s goods_20230210161355 success!
+2023-02-10 16:13:56,233 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 16:13:56,278 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 16:13:56,446 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 16:13:56,626 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 16:13:56,647 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="65aecae1-07d6-48b0-8039-2666cd0a3bb9")>'s text success!
+2023-02-10 16:13:56,689 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="65aecae1-07d6-48b0-8039-2666cd0a3bb9")>'s 210 success!
+2023-02-10 16:13:56,695 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 16:13:56,715 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="4cbb063f-8a55-46b4-b3d0-02a0decf5aa8")>'s text success!
+2023-02-10 16:13:56,759 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="e01f567a30c44d996a6746d262466668", element="4cbb063f-8a55-46b4-b3d0-02a0decf5aa8")>'s 220 success!
+2023-02-10 16:13:56,767 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 16:13:56,818 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 16:14:08,376 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:14:08,394 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="fcc9189cd798111ac3f24b25ec970b4e", element="546df40c-4b4e-4b50-9390-ab85ecad5555")>'s text success!
+2023-02-10 16:14:08,488 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="fcc9189cd798111ac3f24b25ec970b4e", element="546df40c-4b4e-4b50-9390-ab85ecad5555")>'s goods_20230210161355 success!
+2023-02-10 16:14:08,494 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:14:40,254 ERROR [utils.py(el_is_exist_by_text:153)] - 未找到文本为goods_20230210111656的元素对象!
+2023-02-10 16:14:40,877 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:14:40,899 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="fcc9189cd798111ac3f24b25ec970b4e", element="17cc3e15-da19-4f71-9a3c-c9585654338b")>'s text success!
+2023-02-10 16:14:40,936 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="fcc9189cd798111ac3f24b25ec970b4e", element="17cc3e15-da19-4f71-9a3c-c9585654338b")>'s goods_20230210161355 success!
+2023-02-10 16:14:40,944 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:15:35,976 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 16:15:35,993 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="afc7844d-c772-43d5-8a1e-746df0e2cabf")>'s text success!
+2023-02-10 16:15:36,074 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="afc7844d-c772-43d5-8a1e-746df0e2cabf")>'s admin success!
+2023-02-10 16:15:36,081 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 16:15:36,098 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="a82e5578-5cd0-4cb7-abe6-41db94fb7856")>'s text success!
+2023-02-10 16:15:36,129 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="a82e5578-5cd0-4cb7-abe6-41db94fb7856")>'s 123456 success!
+2023-02-10 16:15:36,135 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 16:15:36,156 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="bb548a14-901c-4c2c-8c12-464746908c09")>'s text success!
+2023-02-10 16:15:36,192 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="bb548a14-901c-4c2c-8c12-464746908c09")>'s 8888 success!
+2023-02-10 16:15:36,199 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 16:15:37,767 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 16:15:38,196 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 16:15:38,457 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 16:15:38,467 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="d3f726dc-1a48-41e9-b2ac-80fefddc6d82")> iframe success!
+2023-02-10 16:15:38,474 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 16:15:39,265 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 16:15:39,285 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="dc1226a0-ac29-4e71-a8c2-2343d843433d")>'s text success!
+2023-02-10 16:15:39,339 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="dc1226a0-ac29-4e71-a8c2-2343d843433d")>'s goods_20230210161538 success!
+2023-02-10 16:15:39,346 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 16:15:39,393 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 16:15:39,569 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 16:15:39,739 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 16:15:39,757 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="5dc15129-2e28-4aab-974c-e26511a886f2")>'s text success!
+2023-02-10 16:15:39,792 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="5dc15129-2e28-4aab-974c-e26511a886f2")>'s 210 success!
+2023-02-10 16:15:39,799 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 16:15:39,817 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="cb75b69b-3940-4a0c-866b-b34e6be3e92c")>'s text success!
+2023-02-10 16:15:39,858 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="0fa8856755742e460c6d499cba39058f", element="cb75b69b-3940-4a0c-866b-b34e6be3e92c")>'s 220 success!
+2023-02-10 16:15:39,866 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 16:15:39,914 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 16:15:51,057 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:15:51,077 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="95a5a27ff56876ea4bcb7f449994bf49", element="1618c809-6ae2-4c67-bb36-41272cfb9526")>'s text success!
+2023-02-10 16:15:51,172 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="95a5a27ff56876ea4bcb7f449994bf49", element="1618c809-6ae2-4c67-bb36-41272cfb9526")>'s goods_20230210161538 success!
+2023-02-10 16:15:51,180 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:16:22,930 ERROR [utils.py(el_is_exist_by_text:153)] - 未找到文本为goods_20230210111656的元素对象!
+2023-02-10 16:16:23,697 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:16:23,729 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="95a5a27ff56876ea4bcb7f449994bf49", element="a9c2f808-b3b5-485a-a773-561265bd5b1e")>'s text success!
+2023-02-10 16:16:23,770 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="95a5a27ff56876ea4bcb7f449994bf49", element="a9c2f808-b3b5-485a-a773-561265bd5b1e")>'s goods_20230210161538 success!
+2023-02-10 16:16:23,782 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:20:26,189 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 16:20:26,207 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="4eba8e17-f106-43f0-8e92-ae0092a54f5f")>'s text success!
+2023-02-10 16:20:26,292 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="4eba8e17-f106-43f0-8e92-ae0092a54f5f")>'s admin success!
+2023-02-10 16:20:26,299 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 16:20:26,320 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="5d57e56b-c70a-45c1-9e03-b54081d6b482")>'s text success!
+2023-02-10 16:20:26,360 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="5d57e56b-c70a-45c1-9e03-b54081d6b482")>'s 123456 success!
+2023-02-10 16:20:26,368 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 16:20:26,384 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="ef4ec85e-c303-466f-b5ab-9f7f8d88457b")>'s text success!
+2023-02-10 16:20:26,412 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="ef4ec85e-c303-466f-b5ab-9f7f8d88457b")>'s 8888 success!
+2023-02-10 16:20:26,421 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 16:20:28,117 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 16:20:28,536 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 16:20:28,815 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 16:20:28,825 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="f383c428-4ad3-4b21-b41b-c3eac6f9d764")> iframe success!
+2023-02-10 16:20:28,833 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 16:20:29,573 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 16:20:29,595 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="3adce62d-a699-4320-aa53-44a05739ba7f")>'s text success!
+2023-02-10 16:20:29,653 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="3adce62d-a699-4320-aa53-44a05739ba7f")>'s goods_20230210162028 success!
+2023-02-10 16:20:29,660 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 16:20:29,708 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 16:20:29,877 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 16:20:30,052 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 16:20:30,068 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="08304c60-ca76-484c-a8bb-a8f5ab839be8")>'s text success!
+2023-02-10 16:20:30,103 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="08304c60-ca76-484c-a8bb-a8f5ab839be8")>'s 210 success!
+2023-02-10 16:20:30,110 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 16:20:30,130 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="af30a48c-d808-4a58-9133-99434b74064d")>'s text success!
+2023-02-10 16:20:30,168 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="355ef9845e373e3818c6369b249784e1", element="af30a48c-d808-4a58-9133-99434b74064d")>'s 220 success!
+2023-02-10 16:20:30,174 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 16:20:30,224 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 16:20:41,517 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:20:41,536 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="46ebabde8cbe484c817740ac5226f96b", element="f3408c34-b725-4b61-a3fb-63bb6842c353")>'s text success!
+2023-02-10 16:20:41,626 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="46ebabde8cbe484c817740ac5226f96b", element="f3408c34-b725-4b61-a3fb-63bb6842c353")>'s goods_20230210162028 success!
+2023-02-10 16:20:41,632 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:20:42,669 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:20:42,691 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="46ebabde8cbe484c817740ac5226f96b", element="f87d44ef-d67c-454f-851a-45709c430ebd")>'s text success!
+2023-02-10 16:20:42,732 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="46ebabde8cbe484c817740ac5226f96b", element="f87d44ef-d67c-454f-851a-45709c430ebd")>'s goods_20230210162028 success!
+2023-02-10 16:20:42,736 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:23:56,627 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-10 16:23:56,649 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="e5a33cdc-139d-4bf9-b03a-103fe25b589d")>'s text success!
+2023-02-10 16:23:56,715 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="e5a33cdc-139d-4bf9-b03a-103fe25b589d")>'s admin success!
+2023-02-10 16:23:56,722 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-10 16:23:56,740 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="b4ea58f0-ee5c-4b6a-8ca4-2b0500a703ca")>'s text success!
+2023-02-10 16:23:56,771 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="b4ea58f0-ee5c-4b6a-8ca4-2b0500a703ca")>'s 123456 success!
+2023-02-10 16:23:56,777 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-10 16:23:56,793 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="d3e0d925-41ed-493b-b54e-504478a29478")>'s text success!
+2023-02-10 16:23:56,821 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="d3e0d925-41ed-493b-b54e-504478a29478")>'s 8888 success!
+2023-02-10 16:23:56,829 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-10 16:23:58,389 INFO [base_page.py(find_el:88)] - excute find_el ('xpath', "//*[text()='商城']") success!
+2023-02-10 16:23:58,822 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[data-param='goodsList|Goods']") success!
+2023-02-10 16:23:59,067 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'workspace') success!
+2023-02-10 16:23:59,076 INFO [base_page.py(switch_frame:141)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="edd020a2-116f-4662-a903-73b982c5298a")> iframe success!
+2023-02-10 16:23:59,082 INFO [base_page.py(find_el:88)] - excute find_el ('css selector', "[title='添加商品']") success!
+2023-02-10 16:23:59,794 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'goods_name') success!
+2023-02-10 16:23:59,812 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="f1aa2584-92ee-4e4a-8783-8606960eaecd")>'s text success!
+2023-02-10 16:23:59,857 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="f1aa2584-92ee-4e4a-8783-8606960eaecd")>'s goods_20230210162359 success!
+2023-02-10 16:23:59,865 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id') success!
+2023-02-10 16:23:59,913 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_2') success!
+2023-02-10 16:24:00,028 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'cat_id_3') success!
+2023-02-10 16:24:00,192 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'shop_price') success!
+2023-02-10 16:24:00,210 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="838e4ade-7728-4bf3-a21d-b98cd60e2943")>'s text success!
+2023-02-10 16:24:00,245 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="838e4ade-7728-4bf3-a21d-b98cd60e2943")>'s 210 success!
+2023-02-10 16:24:00,252 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'market_price') success!
+2023-02-10 16:24:00,270 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="9dc3bbed-3a9f-47bd-bd8b-171fe9af6846")>'s text success!
+2023-02-10 16:24:00,306 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="1295c6771cd28a2a33633a24708e5c85", element="9dc3bbed-3a9f-47bd-bd8b-171fe9af6846")>'s 220 success!
+2023-02-10 16:24:00,318 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'is_free_shipping_label_1') success!
+2023-02-10 16:24:00,371 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'submit') success!
+2023-02-10 16:24:12,074 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:24:12,093 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="53900fff2b5e3ff49120ed0bc27c0e22", element="1946b991-d54a-4aae-a993-a77c64f5864c")>'s text success!
+2023-02-10 16:24:12,177 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="53900fff2b5e3ff49120ed0bc27c0e22", element="1946b991-d54a-4aae-a993-a77c64f5864c")>'s goods_20230210162359 success!
+2023-02-10 16:24:12,183 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:24:13,198 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'q') success!
+2023-02-10 16:24:13,238 INFO [base_page.py(input_text:36)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="53900fff2b5e3ff49120ed0bc27c0e22", element="483c730a-b450-47ac-996d-bd6bc47f0e02")>'s text success!
+2023-02-10 16:24:13,306 INFO [base_page.py(input_text:39)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="53900fff2b5e3ff49120ed0bc27c0e22", element="483c730a-b450-47ac-996d-bd6bc47f0e02")>'s goods_20230210162359 success!
+2023-02-10 16:24:13,313 INFO [base_page.py(find_el:19)] - excute find_el ('class name', 'ecsc-search-button') success!
+2023-02-10 16:24:16,538 INFO [base_page.py(find_el:19)] - excute find_el ('id', 'join_cart') success!
+2023-02-10 16:24:16,697 INFO [base_page.py(find_el:19)] - excute find_el ('css selector', "[id*='layui-layer-iframe']") success!
+2023-02-10 16:24:16,945 INFO [base_page.py(switch_frame:69)] - switch to <selenium.webdriver.remote.webelement.WebElement (session="53900fff2b5e3ff49120ed0bc27c0e22", element="989cd608-4421-4389-8478-fb143372de8c")> iframe success!
+2023-02-10 18:00:28,630 INFO [base_page.py(find_el:160)] - excute find_el ('id', 'com.tencent.news:id/rl_list_container') success!
+2023-02-10 18:00:30,056 INFO [base_page.py(find_el:160)] - excute find_el ('id', 'com.tencent.news:id/rl_list_container') success!
+2023-02-10 18:02:49,327 INFO [base_page.py(find_el:160)] - excute find_el ('id', 'com.tencent.news:id/rl_list_container') success!
+2023-02-10 18:02:49,621 INFO [base_page.py(find_el:160)] - excute find_el ('id', 'com.tencent.news:id/rl_list_container') success!
+2025-05-21 10:44:21,873 WARNING [selenium_manager.py(_process_logs:138)] - Exception managing chrome: error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)

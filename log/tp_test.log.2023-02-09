@@ -1,0 +1,38 @@
+2023-02-09 16:21:13,921 ERROR [base_page.py(find_el:90)] - excute find_el ('name', 'username') failed!
+2023-02-09 16:21:13,923 ERROR [base_page.py(input_text:113)] - excute input None's admin failed!
+2023-02-09 16:21:13,928 ERROR [base_page.py(find_el:90)] - excute find_el ('name', 'password') failed!
+2023-02-09 16:21:13,928 ERROR [base_page.py(input_text:113)] - excute input None's 123456 failed!
+2023-02-09 16:21:13,929 ERROR [base_page.py(find_el:90)] - excute find_el ('id', 'vertify') failed!
+2023-02-09 16:21:13,930 ERROR [base_page.py(input_text:113)] - excute input None's 8888 failed!
+2023-02-09 16:21:13,931 ERROR [base_page.py(find_el:90)] - excute find_el ('name', 'submit') failed!
+2023-02-09 16:21:26,462 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-09 16:21:26,487 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="74e1f1102d6c9c589c580e6eadfd028b", element="3781c4fe-e9bb-4b5b-ab50-08f49c862a65")>'s text success!
+2023-02-09 16:21:26,668 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="74e1f1102d6c9c589c580e6eadfd028b", element="3781c4fe-e9bb-4b5b-ab50-08f49c862a65")>'s admin success!
+2023-02-09 16:21:26,680 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-09 16:21:26,707 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="74e1f1102d6c9c589c580e6eadfd028b", element="8658f8db-91a9-4377-a9b9-08cf1e9968dd")>'s text success!
+2023-02-09 16:21:26,747 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="74e1f1102d6c9c589c580e6eadfd028b", element="8658f8db-91a9-4377-a9b9-08cf1e9968dd")>'s 123456 success!
+2023-02-09 16:21:26,758 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-09 16:21:26,781 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="74e1f1102d6c9c589c580e6eadfd028b", element="0d6c3fee-4c34-4e0d-b30a-118aaea42f87")>'s text success!
+2023-02-09 16:21:26,824 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="74e1f1102d6c9c589c580e6eadfd028b", element="0d6c3fee-4c34-4e0d-b30a-118aaea42f87")>'s 8888 success!
+2023-02-09 16:21:26,835 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-09 16:52:24,051 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-09 16:52:24,081 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="d354a4704bf88e1e65df691b1b90737f", element="ac43a97b-0021-4202-9a84-f56a41f012f0")>'s text success!
+2023-02-09 16:52:24,252 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="d354a4704bf88e1e65df691b1b90737f", element="ac43a97b-0021-4202-9a84-f56a41f012f0")>'s admin success!
+2023-02-09 16:52:24,268 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-09 16:52:24,297 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="d354a4704bf88e1e65df691b1b90737f", element="08e0d347-796a-478b-a661-461c3c4967b9")>'s text success!
+2023-02-09 16:52:24,351 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="d354a4704bf88e1e65df691b1b90737f", element="08e0d347-796a-478b-a661-461c3c4967b9")>'s 123456 success!
+2023-02-09 16:52:24,364 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-09 16:52:24,393 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="d354a4704bf88e1e65df691b1b90737f", element="a1d11455-a808-43eb-a9a9-af288fa3cb6f")>'s text success!
+2023-02-09 16:52:24,444 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="d354a4704bf88e1e65df691b1b90737f", element="a1d11455-a808-43eb-a9a9-af288fa3cb6f")>'s 8888 success!
+2023-02-09 16:52:24,456 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-09 16:52:49,191 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'username') success!
+2023-02-09 16:52:49,216 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4539dc9dde4d5b802315a044a0167261", element="0ce906ff-7e4a-4b97-ad06-04fabd5054c5")>'s text success!
+2023-02-09 16:52:49,348 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4539dc9dde4d5b802315a044a0167261", element="0ce906ff-7e4a-4b97-ad06-04fabd5054c5")>'s admin success!
+2023-02-09 16:52:49,361 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'password') success!
+2023-02-09 16:52:49,385 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4539dc9dde4d5b802315a044a0167261", element="0c236ef4-af00-4abf-a7b1-17fc93b6ca64")>'s text success!
+2023-02-09 16:52:49,445 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4539dc9dde4d5b802315a044a0167261", element="0c236ef4-af00-4abf-a7b1-17fc93b6ca64")>'s 123456 success!
+2023-02-09 16:52:49,454 INFO [base_page.py(find_el:88)] - excute find_el ('id', 'vertify') success!
+2023-02-09 16:52:49,483 INFO [base_page.py(input_text:108)] - excute clear <selenium.webdriver.remote.webelement.WebElement (session="4539dc9dde4d5b802315a044a0167261", element="f171a74e-c475-4781-801f-bac4d78c562b")>'s text success!
+2023-02-09 16:52:49,525 INFO [base_page.py(input_text:111)] - excute input <selenium.webdriver.remote.webelement.WebElement (session="4539dc9dde4d5b802315a044a0167261", element="f171a74e-c475-4781-801f-bac4d78c562b")>'s 8888 success!
+2023-02-09 16:52:49,536 INFO [base_page.py(find_el:88)] - excute find_el ('name', 'submit') success!
+2023-02-09 16:53:22,068 ERROR [utils.py(el_is_exist_by_text:137)] - 未找到文本为氨基酸的卡拉胶SD卡几十块的劳动力加爱丽丝的元素对象!
