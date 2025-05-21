@@ -1,0 +1,2 @@
+# UI_Auto_Tphop
+用于存放tpshop项目的UI自动化测试框架
